@@ -78,3 +78,4 @@ Note: this code book is for the `tidy_data.txt` file produced by exectuting `run
 67.   fBodyBodyGyroMag-std()
 68.   fBodyBodyGyroJerkMag-mean()
 69.   fBodyBodyGyroJerkMag-std()
+
