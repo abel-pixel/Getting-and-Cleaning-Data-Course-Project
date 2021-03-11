@@ -48,3 +48,5 @@ test_that("that a code book exists", {
 test_that("that a README exists", {
   expect_that(file.exists("./README.MD"), is_true())
 })
+
+
